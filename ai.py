@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # --------------------------
 data = {
     'Judul_Film': [
-        'Avengers', 'Frozen', 'Joker', 'Minions', 'Avatar',
+        'Sharelock', 'Frozen', 'Joker', 'Minions', 'Avatar',
         'Spiderman', 'Toy Story', 'Batman', 'Inception', 'Moana'
     ],
     'Rating': [8.4, 7.4, 8.5, 6.9, 7.8, 7.5, 8.0, 9.0, 8.7, 7.6],
@@ -42,3 +42,4 @@ plt.xlabel("Rating")
 plt.ylabel("Jumlah Penonton (juta)")
 plt.title("Clustering Film (Entertainment) dengan K-Means")
 plt.show()
+
