@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # --------------------------
 data = {
     'Judul_Film': [
-        'Sharelock', 'Frozen', 'Joker', 'Minions', 'Avatar',
+        'Sharelock', 'Maria', 'Joker', 'Minions', 'Avatar',
         'Spiderman', 'Toy Story', 'Batman', 'Inception', 'Moana'
     ],
     'Rating': [8.4, 7.4, 8.5, 6.9, 7.8, 7.5, 8.0, 9.0, 8.7, 7.6],
